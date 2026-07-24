@@ -1,0 +1,14 @@
+Flask==3.0.3
+Flask-Cors==5.0.0
+Pillow==10.4.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.44.2
+# --- Day 2: Stable Diffusion XL image generation ---
+diffusers==0.30.3
+accelerate==0.34.2
+safetensors==0.4.5
+# Optional but recommended on CUDA for memory-efficient attention:
+# xformers==0.0.28
